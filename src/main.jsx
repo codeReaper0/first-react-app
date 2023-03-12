@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import "./assets/css/index.css";
-import Counter from "./components/Counter";
+import Movies from "./components/movies";
 
-ReactDOM.createRoot(document.getElementById("root")).render(<Counter />);
+ReactDOM.createRoot(document.getElementById("root")).render(<Movies />);
